@@ -1,0 +1,19 @@
+h1 {
+    font-size: 60px;
+    color: rgb(50, 40, 194);
+    background-color: rgb(224, 126, 15);
+}
+
+ul li {
+    color: green;
+}
+
+img {
+    height: auto;
+    width: 300px;
+}
+
+
+ol li {
+    color: rgb(25, 0, 255)
+}
